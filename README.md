@@ -12,7 +12,7 @@ Quick Learner.
 
 Very smart.
 
-Hire me amazon. Please!
+Hire me amazon. 
 
 ## Things I've Done
 
