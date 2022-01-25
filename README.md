@@ -1,4 +1,4 @@
-# Hey I'm Kenny👋
+# Hi I'm Kenny Tran :)
 ## About Me
 I'm a undergraduate studying **Computer Science** at UCI **(Class of 2023)**
 
