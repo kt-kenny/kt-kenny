@@ -1,19 +1,5 @@
 # Hi I'm Kenny Tran 
-## About Me
-I'm a undergraduate studying **Computer Science** at UCI **(Class of 2023)**
 
-Loves computer science.
-Enjoys photography.
-Likes food.
-Quick Learner.
-Very smart.
-Hire me amazon. 
-
-## Things I've Done
-
-Previously made a game -> [ShawarmaCatpug](https://kknee.itch.io/shawarma-the-catpug)
-Currently on team building UCI's bathroom map.
-Currently coding instructor at Coding Minds, Irvine
 
 
 ## Contacts
