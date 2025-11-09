@@ -6,7 +6,6 @@
 kennytran626@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/kenny-tran-3020a715a/)
-[Instagram](https://www.instagram.com/k_enn_yt/)
 
 <!--
 **kt-kenny/kt-kenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
